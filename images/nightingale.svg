@@ -1,0 +1,18 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="48" fill="#07101f"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path d="M120 700C300 520 520 490 720 620C940 760 1160 720 1480 560" stroke="url(#grad1)" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="420" cy="340" r="90" fill="#0f1c33" stroke="#3b82f6" stroke-width="10"/>
+  <circle cx="820" cy="260" r="70" fill="#0f1c33" stroke="#8b5cf6" stroke-width="10"/>
+  <circle cx="1200" cy="520" r="110" fill="#0f1c33" stroke="#fb923c" stroke-width="10"/>
+  <rect x="920" y="120" width="520" height="320" rx="32" fill="rgba(255,255,255,0.03)" stroke="#22d3ee" stroke-width="1"/>
+  <circle cx="1120" cy="210" r="8" fill="#22d3ee"/>
+  <circle cx="1260" cy="260" r="8" fill="#7c3aed"/>
+  <circle cx="1040" cy="330" r="8" fill="#fb923c"/>
+  <text x="90" y="840" fill="#d6a84f" font-size="56" font-family="Inter, sans-serif" letter-spacing="0.12em">Nightingale</text>
+</svg>
