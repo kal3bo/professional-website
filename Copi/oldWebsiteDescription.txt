@@ -1,0 +1,147 @@
+Your website is a minimal, elegant portfolio site for Kaleb Valenzuela, Senior Software Engineer, focused on game development, immersive media, VR/AR, and creative technical projects. It uses a mostly white background, soft grey accents, large serif headings, and project images as the main visual storytelling pieces. The exported PDF shows three pages from kalebvalenzuela.com. 
+Page 1: Homepage / Hero / About
+At the very top, the page identifies the site as:
+Software Engineer | Video Game Developer
+The site then opens with a clean navigation bar. The navigation has three centered links:
+Home
+Education
+Contact
+These are written in a refined serif font. The spacing is generous, which makes the page feel calm and high-end. There is a small dark line near the left side of the navigation area, likely showing the active page or a decorative indicator.
+Header image
+Directly under the navigation is a wide banner image. It is pale, almost white, with soft blue-grey tones. The image contains gaming and technology-related objects, including:
+
+
+A white game controller near the center
+
+
+Small rounded buttons or beads scattered across the image
+
+
+Dice-like or cube-shaped gaming objects
+
+
+A long cylindrical object that looks like a stylus or controller accessory
+
+
+Faint gaming symbols and abstract interface markings in the background
+
+
+The image feels futuristic, clean, and gaming-oriented. Because the colors are very soft and low contrast, it does not distract from the text. It works more like an atmospheric texture than a strong visual centerpiece.
+Hero title
+Below the banner, the main title appears:
+Kaleb Valenzuela
+This is the biggest text on the first page. It is centered and uses a classic serif typeface. To the left of the name, there is a thin vertical line, which gives the hero section a stylish editorial look.
+Under the name, there is the role:
+Senior Software Engineer
+This immediately frames the website as a professional portfolio.
+Featured project: Nightingale
+Below the role, there is a very faint image/logo that appears to say:
+Nightingale
+Under it, the text says:
+Realms Rebuild Update Now Available!
+This section likely highlights a professional game project. The logo is almost white-on-white, so it feels subtle and cinematic, but it is also quite hard to read. It gives the impression of a featured AAA or published game update, but the contrast may be too low for readability.
+A small centered link below says:
+Read More
+Again, this is very pale grey and visually quiet.
+About Me section
+Further down, there is a centered heading:
+About Me
+It has a short black underline beneath it. This underline is used repeatedly across the site as a visual style for section titles.
+The About Me content is placed inside a horizontal image band. The image behind the text looks like a light, futuristic, mechanical or game-tech background. It includes pale geometric shapes, panel-like forms, and soft grey-blue details. The image gives the text area a game-development feeling without becoming visually heavy.
+The text says:
+“As a Senior Software Engineer in game development, I love bringing ideas to life by blending my technical skills with creative mind. My mission is to make every project more than just a game, it’s about creating something fun, immersive, and unforgettable for players to enjoy.”
+The phrase “fun, immersive, and unforgettable” is bolded. This makes the message feel less technical and more player-focused. The site is presenting you not only as someone who writes code, but as someone who cares about emotional impact, experience, and memorable gameplay.
+Journey to Foundation
+At the bottom of page 1, a large pale heading says:
+Journey to Foundation
+This appears to introduce the next section, probably related to a project, career story, or game work. The heading is very light grey, so it feels elegant but not very prominent.
+Page 2: Project gallery and platforms
+Page 2 continues the portfolio with project links and a project gallery.
+Near the top, two pale call-to-action links are visible:
+Watch the trailer
+Check my work!
+They are placed far apart horizontally. These likely connect to the featured project section above, possibly the Nightingale/Foundation content. Like the other pale text, they are visually subtle and may be difficult to notice.
+Other Projects section
+The next major heading is:
+Other Projects
+This heading is centered, large, and dark, with the same short underline below it. This is one of the clearest and strongest sections visually.
+Below it are three project cards in a horizontal row.
+
+Project image 1: Lingo Plaza
+The first project image is bright, playful, and child-friendly. It has a turquoise-blue background with large white text:
+LEARN AND HAVE FUN
+LINGO PLAZA
+There are cartoon-style characters at the edges. One looks like a playful monkey near the top-right, and another colorful character appears near the bottom-left. The colors are cheerful and aimed at children or families.
+This image communicates that Lingo Plaza is educational, fun, and designed for kids.
+A white rectangular button overlaps the bottom of the image. It has a black border and says:
+Learn More
+Below the image, the project title is:
+Lingo Plaza
+The description explains that Lingo Plaza is an innovative platform built to provide an immersive experience and a safe creative space for kids to engage and connect with cultures around the world.
+Visually and conceptually, this project feels like a multicultural learning platform for children. It suggests language learning, global awareness, and interactive education.
+
+Project image 2: Abstrakt
+The second image is a realistic outdoor photograph. It shows a large memorial-like space with many rectangular stone blocks arranged in rows. In the background, there are trees and city buildings under a cloudy sky.
+The image looks serious, historical, and reflective. It strongly contrasts with the playful Lingo Plaza image.
+A white bordered Learn More button overlaps the bottom of the image.
+Below it, the title reads:
+Abstrakt
+The description says that with advanced VR technology, it immerses users in historical events and fosters empathy through the real-life stories of those who experienced them.
+The image supports that concept well. It suggests memory, history, trauma, education, and emotional reflection. The project appears to be about using VR not just for entertainment, but for empathy and historical understanding.
+
+Project image 3: Follow the Tail
+The third image shows a city street scene. A person is holding a smartphone in front of them. On the phone screen, there appears to be an augmented reality view, where a digital object or interactive scene is placed into the real environment.
+The real-world background includes buildings, trees, a sidewalk, benches, and an urban public space. The AR phone screen makes the image feel exploratory and location-based.
+A white bordered Learn More button overlaps the bottom of the image.
+Below it, the project title is:
+Follow the Tail
+The description explains that users explore an AR interactive world to discover exciting places, cuisine, and time-travel-like experiences. A blue whale guides the user through hidden discoveries, mysteries, and secrets.
+The image communicates an AR tourism or exploration experience. The idea feels like a mix of travel guide, city adventure, mystery hunt, and interactive storytelling.
+
+Platforms section
+Below the three project cards, there is a centered heading:
+Platforms
+It uses the same serif heading style with a small underline.
+Under the heading is a row of grey platform logos. They are partially cut off in the PDF, but visible logos appear to include:
+
+
+Pico
+
+
+Apple
+
+
+PlayStation
+
+
+Steam
+
+
+Android
+
+
+Meta Quest
+
+
+This section communicates that your experience spans multiple ecosystems: VR headsets, Apple platforms, console, PC/Steam, Android, and Meta Quest. The grey logos match the site’s restrained visual style.
+Page 3: Footer
+The third page is mostly empty white space, showing the minimal footer.
+It contains:
+Kaleb Valenzuela ©2024
+There is also a link:
+Download my Resume
+This gives the site a standard professional portfolio ending: name, copyright, and a clear resume download option.
+Visual style summary
+The site feels like a professional game developer portfolio with a soft cinematic tone. It avoids bright aggressive colors except inside the project images. The overall design is restrained, calm, and elegant.
+The main visual language is:
+White space
+The site uses a lot of empty space, giving it a premium and uncluttered feeling.
+Serif typography
+The large headings feel editorial and refined, not overly techy.
+Thin line details
+Small underlines and vertical lines create a polished layout.
+Low-contrast decorative elements
+Many background graphics and links are very pale, creating softness but reducing readability.
+Project images as storytelling anchors
+Each project image clearly communicates a different area of work: children’s education, historical VR empathy, and AR exploration.
+Overall, the website presents Kaleb as someone who combines software engineering, game development, immersive technology, and creative storytelling.

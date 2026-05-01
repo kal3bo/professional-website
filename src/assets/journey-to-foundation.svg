@@ -1,0 +1,8 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="48" fill="#07101f"/>
+  <circle cx="520" cy="280" r="108" fill="#0d1a2b" stroke="#7c3aed" stroke-width="10"/>
+  <circle cx="980" cy="520" r="138" fill="#0d1a2b" stroke="#22d3ee" stroke-width="10"/>
+  <path d="M220 620C420 520 580 450 760 470C1040 500 1220 560 1460 420" stroke="#d6a84f" stroke-width="22" stroke-linecap="round"/>
+  <rect x="820" y="180" width="360" height="240" rx="28" fill="rgba(255,255,255,0.04)" stroke="#3b82f6" stroke-width="2"/>
+  <text x="92" y="848" fill="#fb923c" font-size="54" font-family="Inter, sans-serif" letter-spacing="0.12em">Journey to Foundation</text>
+</svg>

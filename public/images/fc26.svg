@@ -1,0 +1,18 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="48" fill="#07101f"/>
+  <g opacity="0.9">
+    <circle cx="320" cy="280" r="120" fill="#1f3b65"/>
+    <circle cx="404" cy="204" r="22" fill="#08b8d3"/>
+    <circle cx="280" cy="340" r="16" fill="#7c3aed"/>
+    <path d="M240 500C320 460 420 450 520 480" stroke="#22d3ee" stroke-width="6" stroke-linecap="round"/>
+    <path d="M350 360C440 320 550 320 640 360" stroke="#fb923c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M620 580C720 520 820 470 930 500" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+    <rect x="980" y="180" width="460" height="380" rx="30" fill="rgba(14,28,48,0.75)" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M1020 220H1380" stroke="#08b8d3" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="1120" cy="340" r="12" fill="#d6a84f"/>
+    <circle cx="1240" cy="420" r="12" fill="#7c3aed"/>
+    <circle cx="1360" cy="520" r="12" fill="#3b82f6"/>
+    <path d="M1080 550L1260 430" stroke="#8b5cf6" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 8"/>
+  </g>
+  <text x="76" y="860" fill="#7c3aed" font-size="64" font-family="Inter, sans-serif" letter-spacing="0.12em">FC26 Tactical Work</text>
+</svg>
