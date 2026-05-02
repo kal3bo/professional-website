@@ -15,7 +15,7 @@ export default function Contact() {
         </div>
         <div className="contact-actions">
           <a className="button button-primary" href={`mailto:${TODO_EMAIL}`}>Email me</a>
-          <a className="button button-secondary" href="/resume.pdf">Resume</a>
+          <a className="button button-secondary" href={`${import.meta.env.BASE_URL}resume.pdf`} target="_blank" rel="noreferrer">Resume</a>
         </div>
       </div>
 

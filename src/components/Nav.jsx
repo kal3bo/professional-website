@@ -30,7 +30,6 @@ export default function Nav() {
               <a key={link} href={href}>{link}</a>
             )
           })}
-          <a href={`${import.meta.env.BASE_URL}resume.pdf`} target="_blank" rel="noreferrer">Resume</a>
         </nav>
 
         <div className="nav-right">
@@ -62,7 +61,6 @@ export default function Nav() {
                 </a>
               )
             })}
-            <a href={`${import.meta.env.BASE_URL}resume.pdf`} target="_blank" rel="noreferrer" onClick={() => setMenuOpen(false)}>Resume</a>
           </motion.div>
         ) : null}
       </AnimatePresence>
